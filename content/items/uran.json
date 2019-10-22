@@ -1,0 +1,11 @@
+{
+	"type": "material",
+	"name": "Uranium",
+	"description": "Very radioactive material...",
+	"hardness": 8,
+	"cost": 6.0,
+	"color": "#228B22",
+	"radioactivity": 1.2
+	"explosiveness": 0.0
+	"flammability": 0.12
+}

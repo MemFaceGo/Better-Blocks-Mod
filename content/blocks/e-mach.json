@@ -1,0 +1,29 @@
+{
+	"type": "GenericSmelter",
+	"name": "Enrichment Machine"
+	"description": "This maching doing uranium enrichment (Needs so many power).",
+	"health": 700,
+	"itemCapacity": 4,
+	"outputItem": {"item": "enriched-uran", "amount": 1},
+	"size": 1,
+	"hasPower": true,
+	"hasItems": true,
+	"craftTime": 1280,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 25.0,
+		"items": {
+			"items": [
+				{ "item": "uran", "amount": 2 }
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "comp-titanium", "amount": 6 },
+		{ "item": "tithorium", "amount": 12 },
+		{ "item": "uran", "amount": 2 }
+	],
+	"category": "crafting",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.2
+}

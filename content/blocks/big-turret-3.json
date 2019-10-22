@@ -1,0 +1,44 @@
+{
+	"type": "burstTurret",
+	"name": "Sniper Turret U120-Super",
+	"description": "Sniper turret",
+	"targetAir": true,
+	"targetGround": true,
+	"health": 900,
+	"size": 4,
+	"inaccuracy": 0.1,
+	"reload": 80,
+	"shootCone": 20,
+	"rotateSpeed": 30,
+	"shots": 1,
+	"range": 400,
+	"burstSpacing": 6,
+	"ammo": {
+		"silicon": {
+			"speed": 15,
+			"damage": 180,
+			"bulletWidth": 4,
+			"bulletHeight": 13,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 2
+		},
+		"comp-titanium": {
+			"speed": 22,
+			"damage": 300,
+			"bulletWidth": 5,
+			"bulletHeight": 16,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 4
+		}
+	},
+	"requirements": [
+		{ "item": "tithorium", "amount": 25 },
+		{ "item": "silicon", "amount": 65 },
+		{ "item": "nuclear-fuel", "amount": 3 },
+		{ "item": "plut", "amount": 5 }
+	],
+	"category": "turret"
+	"shootSound": "laser"
+}

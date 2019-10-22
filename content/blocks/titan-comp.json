@@ -1,0 +1,28 @@
+{
+	"type": "GenericSmelter",
+	"name": "Titanium Compresor"
+	"description": "You can get compressed titanium from it.",
+	"health": 1800,
+	"itemCapacity": 15,
+	"outputItem": {"item": "comp-titanium", "amount": 1},
+	"size": 2,
+	"hasPower": true,
+	"hasItems": true,
+	"craftTime": 300,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 7.5,
+		"items": {
+			"items": [
+				{ "item": "titanium", "amount": 10 }
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "titanium", "amount": 45 },
+		{ "item": "thorium", "amount": 40 }
+	],
+	"category": "crafting",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.23
+}

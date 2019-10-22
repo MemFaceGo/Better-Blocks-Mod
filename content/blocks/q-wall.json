@@ -1,0 +1,11 @@
+{
+	"name": "Quantum Wall",
+	"description": "OP Wall... Nothing more.",
+	"type": "Wall",
+	"health": 100000,
+	"size": 1,
+	"requirements": [
+		{ "item": "quantum-ingot", "amount": 6 }
+	],
+	"category": "defense"
+}

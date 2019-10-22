@@ -1,0 +1,9 @@
+{
+	"type": "material",
+	"name": "Super Tithorium",
+	"description": "The best material in the world... Stop... It's ONE OF the best material...",
+	"hardness": 6,
+	"cost": 6.0,
+	"color": "#7b68ee",
+	"radioactivity": 0.8
+}

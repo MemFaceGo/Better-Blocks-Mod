@@ -1,0 +1,11 @@
+{
+	"type": "material",
+	"name": "Plutonium",
+	"description": "One of the most radioactive material in this game",
+	"hardness": 6,
+	"cost": 9.0,
+	"color": "#A9A9A9",
+	"radioactivity": 2.4
+	"explosiveness": 0.7
+	"flammability": 0.0
+}

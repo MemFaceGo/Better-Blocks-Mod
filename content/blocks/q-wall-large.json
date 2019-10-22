@@ -1,0 +1,11 @@
+{
+	"name": "Quantum Wall large",
+	"description": "OP Wall... 2x2... wow...",
+	"type": "Wall",
+	"health": 400000,
+	"size": 2,
+	"requirements": [
+		{ "item": "quantum-ingot", "amount": 24 }
+	],
+	"category": "defense"
+}

@@ -1,0 +1,13 @@
+{
+	"name": "Super Power Node",
+	"description": "._.",
+	"type": "PowerNode",
+	"health": 25000,
+	"size": 3,
+	"maxNodes": 40,
+	"laserRange": 70,
+	"requirements": [
+		{ "item": "quantum-ingot", "amount": 6 }
+	],
+	"category": "power"
+}

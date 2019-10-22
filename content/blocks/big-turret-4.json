@@ -1,0 +1,52 @@
+{
+	"type": "burstTurret",
+	"name": "Turret A200-Uran",
+	"description": "BIG TURRET",
+	"targetAir": true,
+	"targetGround": true,
+	"health": 1600,
+	"size": 4,
+	"inaccuracy": 10,
+	"reload": 40,
+	"shootCone": 40,
+	"rotateSpeed": 25,
+	"shots": 4,
+	"range": 175,
+	"burstSpacing": 6,
+	"ammo": {
+		"silicon": {
+			"speed": 3.2,
+			"damage": 12,
+			"bulletWidth": 12,
+			"bulletHeight": 18,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 2
+		},
+		"comp-titanium": {
+			"speed": 3.0,
+			"damage": 20,
+			"bulletWidth": 12,
+			"bulletHeight": 21,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 5
+		},
+		"uran": {
+			"speed": 2.6,
+			"damage": 60,
+			"bulletWidth": 18,
+			"bulletHeight": 30,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 10
+		}
+	},
+	"requirements": [
+		{ "item": "comp-titanium", "amount": 18 },
+		{ "item": "tithorium", "amount": 12 },
+		{ "item": "thorium", "amount": 80 },
+		{ "item": "enriched-uran", "amount": 4 }
+	],
+	"category": "turret"
+}

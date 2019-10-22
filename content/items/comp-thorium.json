@@ -1,0 +1,11 @@
+{
+	"type": "material",
+	"name": "Compressed Thorium",
+	"description": "This material...",
+	"hardness": 10,
+	"cost": 2.0,
+	"color": "#EE82EE",
+	"radioactivity": 1.0
+	"explosiveness": 0.2
+	"flammability": 0.0
+}

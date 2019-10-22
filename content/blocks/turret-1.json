@@ -1,0 +1,52 @@
+{
+	"type": "burstTurret",
+	"name": "Turret A100-Mem",
+	"description": "Uses silicon , compressed titanium/thorium",
+	"targetAir": false,
+	"targetGround": true,
+	"health": 1200,
+	"size": 3,
+	"inaccuracy": 6,
+	"reload": 29,
+	"shootCone": 40,
+	"rotateSpeed": 18,
+	"shots": 2,
+	"range": 90,
+	"burstSpacing": 6,
+	"ammo": {
+		"silicon": {
+			"speed": 2.4,
+			"damage": 25,
+			"bulletWidth": 12,
+			"bulletHeight": 17,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 3
+		},
+		"comp-titanium": {
+			"speed": 3.0,
+			"damage": 45,
+			"bulletWidth": 13,
+			"bulletHeight": 20,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 4
+		},
+		"comp-thorium": {
+			"speed": 2.6,
+			"damage": 60,
+			"bulletWidth": 13,
+			"bulletHeight": 20,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 2
+		}
+	},
+	"requirements": [
+		{ "item": "comp-titanium", "amount": 5 },
+		{ "item": "lead", "amount": 65 },
+		{ "item": "thorium", "amount": 80 },
+		{ "item": "silicon", "amount": 55 }
+	],
+	"category": "turret"
+}

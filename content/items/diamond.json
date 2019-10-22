@@ -1,0 +1,11 @@
+{
+	"type": "material",
+	"name": "Diamond",
+	"description": "Diamond ball...",
+	"hardness": 10,
+	"cost": 6.0,
+	"color": "#ADD8E6",
+	"radioactivity": 0.0
+	"explosiveness": 0.0
+	"flammability": 0.0
+}

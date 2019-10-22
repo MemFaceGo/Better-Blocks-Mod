@@ -1,0 +1,44 @@
+{
+	"type": "burstTurret",
+	"name": "Sniper Turret U120-Super MK2",
+	"description": "Faster and stronger version of U120-Super",
+	"targetAir": true,
+	"targetGround": true,
+	"health": 4000,
+	"size": 4,
+	"inaccuracy": 0.1,
+	"reload": 50,
+	"shootCone": 20,
+	"rotateSpeed": 50,
+	"shots": 3,
+	"range": 600,
+	"burstSpacing": 6,
+	"ammo": {
+		"silicon": {
+			"speed": 25,
+			"damage": 360,
+			"bulletWidth": 6,
+			"bulletHeight": 17,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 2
+		},
+		"comp-titanium": {
+			"speed": 32,
+			"damage": 600,
+			"bulletWidth": 8,
+			"bulletHeight": 25,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 4
+		}
+	},
+	"requirements": [
+		{ "item": "super-tithorium", "amount": 18 },
+		{ "item": "diamond", "amount": 12 },
+		{ "item": "nuclear-fuel", "amount": 20 },
+		{ "item": "plut", "amount": 30 }
+	],
+	"category": "turret"
+	"shootSound": "laser"
+}

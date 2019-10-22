@@ -1,0 +1,28 @@
+{
+	"type": "GenericSmelter",
+	"name": "Thorium Compresor"
+	"description": "You can get compressed thorium from it.",
+	"health": 2600,
+	"itemCapacity": 15,
+	"outputItem": {"item": "comp-thorium", "amount": 1},
+	"size": 2,
+	"hasPower": true,
+	"hasItems": true,
+	"craftTime": 300,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 12.5,
+		"items": {
+			"items": [
+				{ "item": "thorium", "amount": 10 }
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "comp-titanium", "amount": 8 },
+		{ "item": "thorium", "amount": 60 }
+	],
+	"category": "crafting",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.28
+}

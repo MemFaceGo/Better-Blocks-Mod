@@ -1,0 +1,13 @@
+{
+	"type": "Conveyor",
+	"name": "Quantum conveyor",
+	"description": "The best conveyor",
+	"health": 750,
+	"requirements": [
+		{"item": "titanium", "amount": 12},
+		{"item": "quantum-ingot", "amount": 2},
+		{"item": "super-tithorium", "amount": 6}
+	],
+	"category": "distribution",
+	"speed": 0.35
+}

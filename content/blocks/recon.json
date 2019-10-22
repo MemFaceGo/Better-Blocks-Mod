@@ -1,0 +1,28 @@
+{
+	"type": "GenericSmelter",
+	"name": "Reconstructor"
+	"description": "You can get [red]RUBY[] from it.",
+	"health": 15000,
+	"itemCapacity": 2,
+	"outputItem": {"item": "ruby", "amount": 1},
+	"size": 3,
+	"hasPower": true,
+	"hasItems": true,
+	"craftTime": 7200,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 50.0,
+		"items": {
+			"items": [
+				{ "item": "diamond", "amount": 1 }
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "nuclear-fuel", "amount": 12 },
+		{ "item": "diamond", "amount": 10 }
+	],
+	"category": "crafting",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.1
+}

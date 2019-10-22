@@ -1,0 +1,35 @@
+{
+	"type": "chargeTurret",
+	"name": "Laser Turret B17-S Plus",
+	"description": "Big Energy Gun",
+	"targetAir": true,
+	"targetGround": true,
+	"health": 1500,
+	"size": 4,
+	"inaccuracy": 1,
+	"chargeTime": 80,
+    "chargeMaxDelay": 190,
+    "chargeEffects": 9,
+	"recoil": 6,
+	"shootType": "lancerLaser"
+	"shootEffect": "lancerLaserShoot",
+    "smokeEffect": "lancerLaserShootSmoke",
+    "chargeEffect": "lancerLaserCharge",
+    "chargeBeginEffect": "lancerLaserChargeBegin",
+	"powerUse": 2.8,
+    "shootShake": 1.9
+	"reload": 50,
+	"shootCone": 80,
+	"rotateSpeed": 30,
+	"shots": 4,
+	"range": 320,
+	"burstSpacing": 6,
+	"damage": 10,
+	"requirements": [
+		{ "item": "comp-titanium", "amount": 18 },
+		{ "item": "tithorium", "amount": 25 },
+		{ "item": "enriched-uran", "amount": 5 }
+	],
+	"category": "turret"
+	"shootSound": "laser"
+}

@@ -1,0 +1,11 @@
+{
+	"type": "material",
+	"name": "Nuclear Fuel",
+	"description": "o_o",
+	"hardness": 1,
+	"cost": 10.0,
+	"color": "#00FF00",
+	"radioactivity": 3.5
+	"explosiveness": 0.0
+	"flammability": 0.0
+}

@@ -1,0 +1,8 @@
+{
+	"type": "material",
+	"name": "OH NO",
+	"description": "OH NO",
+	"hardness": 10,
+	"cost": 100.0,
+	"color": "#FFFFFF"
+}

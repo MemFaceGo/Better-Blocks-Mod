@@ -1,0 +1,9 @@
+{
+	"type": "material",
+	"name": "Tithorium",
+	"description": "An alloy of Titanium and Thorium.",
+	"hardness": 4,
+	"cost": 4.0,
+	"color": "#4682b4",
+	"radioactivity": 0.65
+}

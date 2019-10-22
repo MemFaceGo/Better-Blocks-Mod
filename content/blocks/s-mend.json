@@ -1,0 +1,18 @@
+{
+	"name": "Super Mend Projector",
+	"description": "OP version of mend projector",
+	"type": "MendProjector"
+	"health": 30000,
+	"size": 3,
+	"range": 150,
+	"reload": 300
+	"healPercent": 40,
+	"consumes": {
+		"power": 2.5
+	},
+	"requirements": [
+		{ "item": "quantum-ingot", "amount": 10 },
+		{ "item": "silicon", "amount": 50 }
+	],
+	"category": "effect"
+}

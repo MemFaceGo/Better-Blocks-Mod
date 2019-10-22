@@ -1,0 +1,13 @@
+{
+	"type": "SolarGenerator",
+	"name": "Quantum solar panel",
+	"description": "This solar panel one of the best energy generators",
+	"size": 3,
+	"health": 20000,
+    "powerProduction": 20,
+	"requirements": [
+		{"item": "quantum-ingot", "amount": 15},
+		{"item": "titanium", "amount": 40}
+	],
+	"category": "power"
+}

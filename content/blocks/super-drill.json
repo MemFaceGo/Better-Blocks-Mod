@@ -1,0 +1,16 @@
+{
+	"name": "Super Drill",
+	"description": "The best drill... and its 2x2",
+	"type": "Drill",
+	"size": 2,
+	"health": 10000,
+	"tier": 8,
+	"drillTime": 250,
+	"consumes": {
+		"power": 8.0
+	},
+	"requirements": [
+		{ "item": "super-tithorium", "amount": 30 }
+	],
+	"category": "production"
+}

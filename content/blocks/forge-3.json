@@ -1,0 +1,35 @@
+{
+	"type": "GenericSmelter",
+	"name": "Forge S1000-Quantum",
+	"description": "Combines the best materials to produce QUANTUM INGOT.",
+	"health": 14000,
+	"liquidCapacity": 200,
+	"itemCapacity": 60,
+	"outputItem": {"item": "quantum-ingot", "amount": 1},
+	"size": 3,
+	"hasPower": true,
+	"hasLiquids": true,
+	"hasItems": true,
+	"craftTime": 240,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 4.0,
+		"items": {
+			"items": [
+				{ "item": "super-tithorium", "amount": 5 }
+			]
+		},
+		"liquid": {
+			"liquid": "quantum-liquid",
+			"amount": 0.5
+		}
+	},
+	"requirements": [
+		{ "item": "tithorium", "amount": 60 },
+		{ "item": "titanium", "amount": 200 },
+		{ "item": "super-tithorium", "amount": 18 }
+	],
+	"category": "crafting",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

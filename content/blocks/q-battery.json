@@ -1,0 +1,12 @@
+{
+	"type": "battery",
+	"name": "Quantum battery",
+	"size": 3,
+	"health": 12000,
+	"category": "power",
+	"requirements": [
+		{"item": "quantum-ingot", "amount": 10}
+		{"item": "titanium", "amount": 35}
+	],
+	"consumes": { "powerBuffered": 1000000000 }
+}

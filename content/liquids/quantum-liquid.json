@@ -1,0 +1,8 @@
+{
+	"name": "Quantum acid",
+	"description": "IDK how we got it",
+	"temperature": 0.8,
+    "viscosity": 0.5,
+    "effect": "melting",
+    "color": "4B0082"
+}

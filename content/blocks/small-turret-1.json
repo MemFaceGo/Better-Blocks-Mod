@@ -1,0 +1,35 @@
+{
+	"type": "chargeTurret",
+	"name": "Laser Turret B2-A",
+	"description": "Fast Energy Gun",
+	"targetAir": true,
+	"targetGround": true,
+	"health": 300,
+	"size": 2,
+	"inaccuracy": 12,
+	"chargeTime": 20,
+    "chargeMaxDelay": 20,
+    "chargeEffects": 4,
+	"recoil": 2,
+	"shootType": "lancerLaser"
+	"shootEffect": "lancerLaserShoot",
+    "smokeEffect": "lancerLaserShootSmoke",
+    "chargeEffect": "lancerLaserCharge",
+    "chargeBeginEffect": "lancerLaserChargeBegin",
+	"powerUse": 1.2,
+    "shootShake": 1.3
+	"reload": 20,
+	"shootCone": 40,
+	"rotateSpeed": 18,
+	"shots": 2,
+	"range": 90,
+	"burstSpacing": 6,
+	"damage": 10,
+	"requirements": [
+		{ "item": "comp-titanium", "amount": 14 },
+		{ "item": "uran", "amount": 12 },
+		{ "item": "thorium", "amount": 25 }
+	],
+	"category": "turret"
+	"shootSound": "laser"
+}

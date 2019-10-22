@@ -1,0 +1,28 @@
+{
+	"type": "GenericSmelter",
+	"name": "Nuclear Forge"
+	"description": "If you need more uranium , use this machine.",
+	"health": 2000,
+	"itemCapacity": 4,
+	"outputItem": {"item": "uran", "amount": 1},
+	"size": 2,
+	"hasPower": true,
+	"hasItems": true,
+	"craftTime": 750,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 17.2,
+		"items": {
+			"items": [
+				{ "item": "comp-thorium", "amount": 2 }
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "comp-titanium", "amount": 10 },
+		{ "item": "comp-thorium", "amount": 4 }
+	],
+	"category": "crafting",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.4
+}

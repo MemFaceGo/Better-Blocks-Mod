@@ -1,0 +1,61 @@
+{
+	"type": "burstTurret",
+	"name": "Turret S10-Minigun",
+	"description": "Minigun for mindustry",
+	"targetAir": true,
+	"targetGround": true,
+	"health": 400,
+	"size": 2,
+	"inaccuracy": 23,
+	"reload": 5,
+	"shootCone": 40,
+	"rotateSpeed": 40,
+	"shots": 2,
+	"range": 140,
+	"burstSpacing": 6,
+	"ammo": {
+		"copper": {
+			"speed": 4.2,
+			"damage": 5,
+			"bulletWidth": 4,
+			"bulletHeight": 6,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 4
+		},
+		"lead": {
+			"speed": 5.5,
+			"damage": 7,
+			"bulletWidth": 4,
+			"bulletHeight": 7,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 4
+		},
+		"silicon": {
+			"speed": 5,
+			"damage": 9,
+			"bulletWidth": 5,
+			"bulletHeight": 6,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 6
+		},
+		"comp-titanium": {
+			"speed": 9,
+			"damage": 14,
+			"bulletWidth": 4,
+			"bulletHeight": 12,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 9
+		}
+	},
+	"requirements": [
+		{ "item": "titanium", "amount": 35 },
+		{ "item": "silicon", "amount": 45 },
+		{ "item": "lead", "amount": 80 },
+		{ "item": "copper", "amount": 120 }
+	],
+	"category": "turret"
+}
