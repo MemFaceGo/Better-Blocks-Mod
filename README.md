@@ -5,8 +5,8 @@ This mod adds more blocks , materials and enemies (I'll add enemies soon) (OH NO
 - MemFaceGo (Russian)
 - LonelyYmomfe (Ukrainian)
 
-## Update v1.1
-- Added Russian and Ukrainian Translates
-- Added 9 Turrets
+## Update v1.2-1
+- Added New Cores
+- Added some Static Walls and Floors
 
-![Logo](sprites/Screenshot_360.png)
+![Logo](sprites/Screenshot_385.png)
