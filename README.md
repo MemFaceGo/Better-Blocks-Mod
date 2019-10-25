@@ -6,7 +6,7 @@ This mod adds more blocks , materials and enemies (I'll add enemies soon) (OH NO
 - LonelyYmomfe (Ukrainian)
 
 ## Update v1.2-1
-- Added New Cores
-- Added some Static Walls and Floors
+- Added New Ore, Materials, Walls and Block
+- Fixed Core: Sandbox and Turret A100-Mem
 
-![Logo](sprites/Screenshot_385.png)
+![Logo](sprites/Screenshot_394.png)
