@@ -5,7 +5,7 @@ This mod adds more blocks , materials and enemies (I'll add enemies soon) (OH NO
 - MemFaceGo (Russian)
 - LonelyYmomfe (Ukrainian)
 
-## Update v1.2-1
+## Update v1.2-2
 - Added New Ore, Materials, Walls and Block
 - Fixed Core: Sandbox and Turret A100-Mem
 
