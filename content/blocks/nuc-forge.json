@@ -20,7 +20,8 @@
 	},
 	"requirements": [
 		{ "item": "comp-titanium", "amount": 10 },
-		{ "item": "comp-thorium", "amount": 4 }
+		{ "item": "comp-thorium", "amount": 4 },
+		{ "item": "dark-steel", "amount": 16 }
 	],
 	"category": "crafting",
 	"idleSound": "respawning",

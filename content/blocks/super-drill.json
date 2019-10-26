@@ -10,7 +10,8 @@
 		"power": 8.0
 	},
 	"requirements": [
-		{ "item": "super-tithorium", "amount": 30 }
+		{ "item": "super-tithorium", "amount": 30 },
+		{ "item": "uran", "amount": 10 }
 	],
 	"category": "production"
 }

@@ -1,0 +1,31 @@
+{
+	"type": "ChargeTurret",
+	"name": "Plasma Turret",
+	"description": "This turret uses not many energy ,but has alot of damage",
+	"health": 1500,
+	"size": 4,
+	"reload": 40,
+	"range": 160,
+	"chargeTime": 30,
+	"chargeMaxDelay": 50,
+	"chargeEffects": 15,
+	"cooldown": 0.01
+	"recoil": 2
+	"powerUse": 4.0
+	"shootShake": 4
+	"shootEffect": "lancerLaserShoot"
+	"smokeEffect": "lancerLaserShootSmoke"
+	"chargeEffect": "lancerLaserCharge"
+	"chargeBeginEffect": "lancerLaserChargeBegin"
+	"shootType": "lancerLaser",
+	"inaccuracy": 0.1,
+	"rotatespeed": 12,
+	"burstSpacing": 6,
+	"requirements": [
+		{ "item": "dark-steel", "amount": 65 },
+		{ "item": "uran", "amount": 15 },
+		{ "item": "diamond", "amount": 2 }
+	],
+	"category": "turret"
+	"shootSound": "laser"
+}

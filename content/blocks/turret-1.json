@@ -41,9 +41,18 @@
 			"smokeEffect": "shootSmallSmoke",
 			"ammoMultiplier": 2
 		}
+		"iron": {
+			"speed": 4.0,
+			"damage": 15,
+			"bulletWidth": 8,
+			"bulletHeight": 15,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 10
+		}
 	},
 	"requirements": [
-		{ "item": "comp-titanium", "amount": 5 },
+		{ "item": "dark-steel", "amount": 15 },
 		{ "item": "lead", "amount": 65 },
 		{ "item": "thorium", "amount": 80 },
 		{ "item": "silicon", "amount": 55 }

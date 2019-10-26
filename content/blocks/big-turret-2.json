@@ -55,7 +55,8 @@
 		{ "item": "diamond", "amount": 12 },
 		{ "item": "nuclear-fuel", "amount": 6 },
 		{ "item": "plut", "amount": 10 },
-		{ "item": "super-tithorium", "amount": 20 }
+		{ "item": "super-tithorium", "amount": 20 },
+		{ "item": "dark-steel", "amount": 30 }
 	],
 	"category": "turret"
 }

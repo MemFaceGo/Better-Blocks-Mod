@@ -46,7 +46,8 @@
 		{ "item": "comp-titanium", "amount": 18 },
 		{ "item": "tithorium", "amount": 12 },
 		{ "item": "thorium", "amount": 80 },
-		{ "item": "enriched-uran", "amount": 4 }
+		{ "item": "enriched-uran", "amount": 4 },
+		{ "item": "dark-steel", "amount": 45 }
 	],
 	"category": "turret"
 }

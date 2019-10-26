@@ -37,7 +37,8 @@
 		{ "item": "tithorium", "amount": 25 },
 		{ "item": "silicon", "amount": 65 },
 		{ "item": "nuclear-fuel", "amount": 3 },
-		{ "item": "plut", "amount": 5 }
+		{ "item": "plut", "amount": 5 },
+		{ "item": "dark-steel", "amount": 25 }
 	],
 	"category": "turret"
 	"shootSound": "laser"

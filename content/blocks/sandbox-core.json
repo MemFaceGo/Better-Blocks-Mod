@@ -1,0 +1,7 @@
+{
+	"name": "Core: Sandbox",
+	"type": "CoreBlock",
+	"health": 100000000
+	"itemCapacity": 200000000
+	"size": 5
+}

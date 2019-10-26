@@ -1,0 +1,11 @@
+{
+	"type": "material",
+	"name": "Iron",
+	"description": "Iron...",
+	"hardness": 3,
+	"cost": 1.2,
+	"color": "#9F8464",
+	"radioactivity": 0.0
+	"explosiveness": 0.0
+	"flammability": 0.08
+}

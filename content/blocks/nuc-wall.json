@@ -1,0 +1,5 @@
+{
+	"name": "Nuclear Reactor Wall",
+	"type": "StaticWall",
+	"variants": 3
+}

@@ -21,7 +21,8 @@
 	},
 	"requirements": [
 		{ "item": "comp-titanium", "amount": 32 },
-		{ "item": "enriched-uran", "amount": 10 }
+		{ "item": "enriched-uran", "amount": 10 },
+		{ "item": "dark-steel", "amount": 25 }
 	],
 	"category": "crafting",
 	"idleSound": "respawning",

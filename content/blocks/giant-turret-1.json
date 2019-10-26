@@ -1,0 +1,35 @@
+{
+	"type": "LaserTurret",
+	"name": "Giant Turret OMEGA-1",
+	"description": "GIANT TURRET that needs alot of energy and cryofluid",
+	"targetAir": true,
+	"targetGround": true,
+	"health": 3000,
+	"size": 4,
+	"reload": 10,
+	"shootCone": 20,
+	"shootType": "meltdownLaser"
+	"rotateSpeed": 90,
+	"powerUse": 10.0,
+	"range": 240,
+	"shootShake": 3
+	"firingMoveFract": 0.5
+	"shootDuration": 40
+	"recoil": 2,
+	"shootSound": "laserbig",
+	"shootEffect": "shootBigSmoke2",
+	"consumes": {
+		"liquid": {
+			"liquid": "cryofluid",
+			"amount": 0.5
+		},
+	},
+	"activeSound": "beam"
+	"requirements": [
+		{ "item": "super-tithorium", "amount": 25 },
+		{ "item": "enriched-uran", "amount": 12 },
+		{ "item": "plut", "amount": 15 },
+		{ "item": "dark-steel", "amount": 120 }
+	],
+	"category": "turret"
+}

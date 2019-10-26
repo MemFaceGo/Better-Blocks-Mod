@@ -1,0 +1,7 @@
+{
+	"name": "Core: Uranium",
+	"type": "CoreBlock",
+	"health": 11500
+	"itemCapacity": 25000
+	"size": 5
+}
