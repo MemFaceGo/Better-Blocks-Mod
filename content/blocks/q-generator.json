@@ -26,5 +26,5 @@
 		{ "item": "nuclear-fuel", "amount": 30 }
 	],
 	"category": "power"
-	"heating": 0.5
+	"heating": 0.008
 }
