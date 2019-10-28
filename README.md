@@ -3,7 +3,7 @@ This mod adds more blocks , materials and enemies (I'll add enemies soon) (OH NO
 
 # Translators
 - [MemFaceGo](https://github.com/MemFaceGo) (Russian - Owner)
-- LonelyYmomfe (Ukrainian)
+- [LonelyYmomfe](https://github.com/ymomfe) (Ukrainian)
 - Makc - Carbon (Ukrainian)
 
 ## [Update v1.2-4](https://github.com/MemFaceGo/Better-Blocks-Mod/releases/tag/v1.2-4)
