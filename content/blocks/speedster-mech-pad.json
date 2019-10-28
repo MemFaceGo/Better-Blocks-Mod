@@ -1,0 +1,17 @@
+{
+	"name": "Speedster Mech Pad",
+	"description": "Transform into the SPEEDSTER mech.",
+	"type": "MechPad",
+	"mech": "speedster-mech",
+	"size": 3,
+	"consumes": {
+		"power": 4.0
+	},
+	"category": "upgrade",
+	"requirements": [
+		{ "item": "dark-steel", "amount": 770 },
+		{ "item": "ruby", "amount": 50 },
+		{ "item": "plut", "amount": 25 },
+		{ "item": "quantum-ingot", "amount": 8 },
+	]
+}
