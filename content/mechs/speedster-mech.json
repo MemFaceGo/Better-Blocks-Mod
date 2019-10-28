@@ -1,0 +1,19 @@
+{
+	"name": "Speedster",
+	"description": "The fastest and strongest mech",
+	"speed": 3.0,
+	"buildPower": 200.0,
+	"engineColor": "666495",
+	"flying": true,
+	"health": 30000,
+	"weaponOffsetX": 1,
+	"weaponOffsetY": 1,
+	"shootSound": "laser"
+	"weapon": {
+		"name": "OOF",
+		"length": 3.5,
+		"reload": 12,
+		"alternate": true,
+		"bullet": "lancerLaser"
+	}
+}
