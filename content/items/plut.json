@@ -1,6 +1,6 @@
 {
 	"type": "material",
-	"name": "Plutonium",
+	"name": "[#aaaaaa]Plutonium",
 	"description": "One of the most radioactive material in this game",
 	"hardness": 6,
 	"cost": 16.0,

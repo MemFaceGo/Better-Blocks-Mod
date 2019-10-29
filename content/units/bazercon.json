@@ -1,0 +1,26 @@
+{
+    "type": "wraith",
+    "name": "Bazercon",
+    "health": 1500,
+    "mass": 6.0,
+    "speed": 0.1,
+    "maxVelocity": 1.0,
+	"rotateSpeed": 4
+    "drag": 0.01,
+    "shootCone": 40.0,
+	"engineColor": "#64be64"
+    "flying": true,
+    "engineOffset": 1,
+    "engineSize": 1,
+    "weapon": {
+        "length": 3.0,
+        "reload": 26.0,
+        "width": 10.0,
+        "shots": 1,
+        "inaccuracy": 3.0,
+        "alternate": true,
+        "ejectEffect": "shellEjectSmall",
+        "shootSound": "shoot",
+        "bullet": "standardThorium"
+    }
+}

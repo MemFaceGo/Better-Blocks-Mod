@@ -1,0 +1,9 @@
+{
+	"type": "material",
+	"name": "[#200020]Dark Matter",
+	"description": "...on ho",
+	"hardness": 20,
+	"cost": 10000.0,
+	"color": "#200020",
+	"radioactivity": 22.5
+}

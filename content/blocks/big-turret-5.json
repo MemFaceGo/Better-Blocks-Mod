@@ -1,0 +1,27 @@
+{
+	"type": "itemTurret",
+	"name": "[#08DBC1]Cryogeniser",
+	"description": "Has a built-in cryofluid factory, which converts titanium to cryofluid and shoots it out at high velocities. 
+	(Thanks [blue]Ilya246[] for name and desc)",
+	"targetAir": true,
+	"targetGround": true,
+	"health": 1500,
+	"size": 4,
+	"inaccuracy": 14,
+	"reload": 1,
+	"recoil": 0,
+	"shootCone": 50,
+	"shootEffect": "shootLiquid"
+	"shootSound": "splash"
+	"rotateSpeed": 25,
+	"range": 230,
+	"ammo": {
+		"titanium": "cryoShot",
+	},
+	"requirements": [
+		{ "item": "dark-steel", "amount": 60 },
+		{ "item": "metaglass", "amount": 35 },
+		{ "item": "uran", "amount": 15 }
+	],
+	"category": "turret"
+}

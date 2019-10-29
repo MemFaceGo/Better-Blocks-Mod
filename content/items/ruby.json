@@ -1,6 +1,6 @@
 {
 	"type": "material",
-	"name": "Ruby",
+	"name": "[red]Ruby",
 	"description": "Ruby ball... or remake of diamond",
 	"hardness": 10,
 	"cost": 40.0,

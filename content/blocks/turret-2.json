@@ -1,0 +1,38 @@
+{
+	"type": "burstTurret",
+	"name": "[#FD7A01]Flamethrower",
+	"description": "Uses something hot to use flame power",
+	"targetAir": false,
+	"targetGround": true,
+	"health": 800,
+	"size": 3,
+	"inaccuracy": 6,
+	"reload": 29,
+	"shootCone": 40,
+	"rotateSpeed": 18,
+	"shots": 4,
+	"range": 90,
+	"burstSpacing": 6,
+	"ammo": {
+		"pyratite": {
+			"speed": 4,
+			"damage": 25,
+			"status": "burning",
+			"statusDuration": 400,
+			"hitSize": 7,
+			"bulletWidth": 12,
+			"bulletHeight": 17,
+			"shootEffect": "shootPyraFlame",
+			"hitEffect": "hitFlameSmall",
+			"despawnEffect": "none"
+			"pierce": true,
+			"ammoMultiplier": 4
+		}
+	},
+	"requirements": [
+		{ "item": "dark-steel", "amount": 40 },
+		{ "item": "lead", "amount": 100 },
+		{ "item": "tithorium", "amount": 20 }
+	],
+	"category": "turret"
+}
