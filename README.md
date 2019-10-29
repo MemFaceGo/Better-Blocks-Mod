@@ -6,8 +6,8 @@ This mod adds more blocks , materials and enemies (I'll add enemies soon) (OH NO
 - [LonelyYmomfe](https://github.com/ymomfe) (Ukrainian)
 - Makc - Carbon (Ukrainian)
 
-## [Update v1.2-4](https://github.com/MemFaceGo/Better-Blocks-Mod/releases/tag/v1.2-4)
-- Added New Conveyor
-- Revamped Quantum Conveyor & Walls
+## Update v1.2
+- Added New Turrets
+- Added New Forge
 
 ![Logo](sprites/Screenshot_437.png)
