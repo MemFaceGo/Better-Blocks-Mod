@@ -10,4 +10,4 @@ This mod adds more blocks , materials and enemies (I'll add enemies soon) (OH NO
 - Added New Turrets
 - Added New Forge
 
-![Logo](sprites/Screenshot_437.png)
+![Logo](sprites/Screenshot_521.png)
