@@ -6,8 +6,7 @@ This mod adds more blocks , materials and enemies (I'll add enemies soon) (OH NO
 - [LonelyYmomfe](https://github.com/ymomfe) (Ukrainian)
 - Makc - Carbon (Ukrainian)
 
-## Update v1.2
-- Added New Turrets
-- Added New Forge
+## Update v1.2.1
+- Added New Drills
 
-![Logo](sprites/Screenshot_521.png)
+![Logo](sprites/Screenshot_528.png)
