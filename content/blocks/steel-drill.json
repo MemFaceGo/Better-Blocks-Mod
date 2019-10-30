@@ -1,0 +1,21 @@
+{
+	"name": "Steel Drill",
+	"description": "3x3 Drill...",
+	"type": "Drill",
+	"size": 3,
+	"health": 6000,
+	"tier": 6,
+	"drillTime": 360,
+	"rotateSpeed": 7,
+	"drawRim": true
+	"updateEffect": "pulverizeRed"
+	"updateEffectChance": 0.03
+	"consumes": {
+		"power": 5.0
+	},
+	"requirements": [
+		{ "item": "dark-steel", "amount": 40 },
+		{ "item": "comp-titanium", "amount": 12 }
+	],
+	"category": "production"
+}

@@ -1,0 +1,23 @@
+{
+	"name": "Uranium Drill",
+	"description": "Uses power of uranium to drill faster",
+	"type": "Drill",
+	"size": 3,
+	"health": 2000,
+	"tier": 8,
+	"drillTime": 160,
+	"rotateSpeed": 8,
+	"drawRim": true
+	"updateEffect": "pulverizeRed"
+	"drillEffect": "healWaveMend"
+	"updateEffectChance": 0.03
+	"consumes": {
+		"power": 12.0
+	},
+	"requirements": [
+		{ "item": "nuclear-fuel", "amount": 6 },
+		{ "item": "dark-steel", "amount": 75 },
+		{ "item": "uran", "amount": 30 }
+	],
+	"category": "production"
+}

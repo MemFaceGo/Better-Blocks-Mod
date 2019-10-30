@@ -1,0 +1,23 @@
+{
+	"name": "Diamond Drill",
+	"description": "owo",
+	"type": "Drill",
+	"size": 3,
+	"health": 3000,
+	"tier": 8,
+	"drillTime": 180,
+	"rotateSpeed": 4,
+	"drawRim": true
+	"updateEffect": "pulverizeRed"
+	"drillEffect": "healWaveMend"
+	"updateEffectChance": 0.03
+	"consumes": {
+		"power": 9.0
+	},
+	"requirements": [
+		{ "item": "diamond", "amount": 25 },
+		{ "item": "dark-steel", "amount": 100 },
+		{ "item": "uran", "amount": 6 }
+	],
+	"category": "production"
+}
