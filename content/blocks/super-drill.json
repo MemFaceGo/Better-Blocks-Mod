@@ -5,13 +5,14 @@
 	"size": 2,
 	"health": 10000,
 	"tier": 8,
-	"drillTime": 250,
+	"drillTime": 180,
+	"rotateSpeed": 9,
 	"consumes": {
 		"power": 8.0
 	},
 	"requirements": [
 		{ "item": "super-tithorium", "amount": 30 },
-		{ "item": "uran", "amount": 10 }
+		{ "item": "dark-steel", "amount": 100 }
 	],
 	"category": "production"
 }
