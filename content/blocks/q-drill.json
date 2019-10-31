@@ -20,4 +20,5 @@
 		{ "item": "plut", "amount": 20 }
 	],
 	"category": "production"
+	"research": "super-drill"
 }

@@ -1,5 +1,5 @@
 {
-	"name": "Speedster Mech Pad",
+	"name": "Speedster Ship Pad",
 	"description": "Transform into the SPEEDSTER mech.",
 	"type": "MechPad",
 	"mech": "speedster-mech",
@@ -14,4 +14,5 @@
 		{ "item": "plut", "amount": 25 },
 		{ "item": "quantum-ingot", "amount": 8 },
 	]
+	"research": "glaive-ship-pad"
 }

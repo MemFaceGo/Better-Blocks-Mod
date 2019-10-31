@@ -50,4 +50,5 @@
 		{ "item": "dark-steel", "amount": 45 }
 	],
 	"category": "turret"
+	"research": "ripple"
 }

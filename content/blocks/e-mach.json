@@ -26,4 +26,5 @@
 	"category": "crafting",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.2
+	"research": "incinerator"
 }

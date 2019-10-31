@@ -32,4 +32,5 @@
 		{ "item": "dark-steel", "amount": 120 }
 	],
 	"category": "turret"
+	"research": "meltdown"
 }

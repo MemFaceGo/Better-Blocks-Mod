@@ -10,4 +10,5 @@
 		{ "item": "quantum-ingot", "amount": 6 }
 	],
 	"category": "power"
+	"research": "surge-tower"
 }

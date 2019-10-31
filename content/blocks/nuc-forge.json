@@ -26,4 +26,5 @@
 	"category": "crafting",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.4
+	"research": "thor-comp"
 }

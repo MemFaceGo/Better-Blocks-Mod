@@ -59,4 +59,5 @@
 		{ "item": "dark-steel", "amount": 30 }
 	],
 	"category": "turret"
+	"research": "spectre"
 }

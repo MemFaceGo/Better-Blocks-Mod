@@ -8,4 +8,5 @@
 		{ "item": "quantum-ingot", "amount": 6 }
 	],
 	"category": "defense"
+	"research": "uran-wall"
 }

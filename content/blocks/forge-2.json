@@ -27,4 +27,5 @@
 	"category": "crafting",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5
+	"research": "forge-1"
 }

@@ -27,4 +27,5 @@
 	"category": "crafting",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.3
+	"research": "e-mach"
 }

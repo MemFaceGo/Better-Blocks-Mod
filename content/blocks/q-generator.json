@@ -17,7 +17,7 @@
 		},
 		"liquid": {
 			"liquid": "quantum-liquid",
-			"amount": 0.2
+			"amount": 0.1
 		}
 	},
 	"requirements": [
@@ -27,4 +27,5 @@
 	],
 	"category": "power"
 	"heating": 0.008
+	"research": "impact-reactor"
 }

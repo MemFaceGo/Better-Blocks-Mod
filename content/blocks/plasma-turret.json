@@ -28,4 +28,5 @@
 	],
 	"category": "turret"
 	"shootSound": "laser"
+	"research": "big-turret-1"
 }

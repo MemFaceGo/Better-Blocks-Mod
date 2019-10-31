@@ -25,4 +25,5 @@
 	"category": "crafting",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.28
+	"research": "multi-press"
 }

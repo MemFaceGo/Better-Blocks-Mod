@@ -40,4 +40,5 @@
 		{ "item": "super-tithorium", "amount": 80 }
 	],
 	"category": "turret"
+	"research": "big-turret-2"
 }

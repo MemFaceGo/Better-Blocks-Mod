@@ -9,4 +9,5 @@
 		{"item": "titanium", "amount": 35}
 	],
 	"consumes": { "powerBuffered": 1000000000 }
+	"research": "battery-large"
 }

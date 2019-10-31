@@ -35,4 +35,5 @@
 		{ "item": "tithorium", "amount": 20 }
 	],
 	"category": "turret"
+	"research": "turret-1"
 }

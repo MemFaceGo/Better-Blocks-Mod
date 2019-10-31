@@ -58,4 +58,5 @@
 		{ "item": "silicon", "amount": 55 }
 	],
 	"category": "turret"
+	"research": "salvo"
 }

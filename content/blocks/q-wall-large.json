@@ -8,4 +8,5 @@
 		{ "item": "quantum-ingot", "amount": 24 }
 	],
 	"category": "defense"
+	"research": "q-wall"
 }

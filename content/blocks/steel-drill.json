@@ -18,4 +18,5 @@
 		{ "item": "comp-titanium", "amount": 12 }
 	],
 	"category": "production"
+	"research": "laser-drill"
 }

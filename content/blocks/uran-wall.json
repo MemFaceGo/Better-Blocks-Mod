@@ -9,4 +9,5 @@
 		{ "item": "dark-steel", "amount": 4 }
 	],
 	"category": "defense"
+	"research": "thorium-wall"
 }

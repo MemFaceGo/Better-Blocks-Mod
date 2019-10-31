@@ -24,4 +24,5 @@
 		{ "item": "uran", "amount": 15 }
 	],
 	"category": "turret"
+	"research": "turret-1"
 }

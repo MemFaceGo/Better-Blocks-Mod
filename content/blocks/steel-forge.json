@@ -28,4 +28,5 @@
 	"category": "crafting",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.1
+	"research": "kiln"
 }

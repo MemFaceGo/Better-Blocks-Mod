@@ -31,4 +31,5 @@
 	"category": "crafting",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.12
+	"research": "recon"
 }

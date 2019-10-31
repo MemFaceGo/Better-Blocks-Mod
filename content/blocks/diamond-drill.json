@@ -20,4 +20,5 @@
 		{ "item": "uran", "amount": 6 }
 	],
 	"category": "production"
+	"research": "steel-drill"
 }

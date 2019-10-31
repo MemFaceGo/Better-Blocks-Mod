@@ -10,4 +10,5 @@
 		{ "item": "quantum-ingot", "amount": 30 }
 	],
 	"category": "effect"
+	"research": "vault"
 }

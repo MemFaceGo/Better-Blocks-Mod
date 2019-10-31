@@ -10,4 +10,5 @@
 		{"item": "titanium", "amount": 40}
 	],
 	"category": "power"
+	"research": "solar-panel-large"
 }

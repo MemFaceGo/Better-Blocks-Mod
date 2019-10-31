@@ -1,7 +1,7 @@
 {
 	"type": "GenericSmelter",
 	"name": "[green]Atomic Forge"
-	"description": "Use this machine to get [#200020]dark matter",
+	"description": "Use this machine to get [#4a004a]dark matter",
 	"health": 40000,
 	"itemCapacity": 6,
 	"outputItem": {"item": "dark-matter", "amount": 1},
@@ -26,4 +26,5 @@
 	"category": "crafting",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.05
+	"research": "q-recon"
 }
