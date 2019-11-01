@@ -21,6 +21,7 @@
 	"requirements": [
 		{ "item": "quantum-ingot", "amount": 12 },
 		{ "item": "dark-steel", "amount": 1800 },
+		{ "item": "titanium", "amount": 4000 },
 		{ "item": "ruby", "amount": 400 }
 	],
 	"category": "crafting",

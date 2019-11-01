@@ -15,7 +15,8 @@
 		"items": {
 			"items": [
 				{ "item": "tithorium", "amount": 3 },
-				{ "item": "thorium", "amount": 20 }
+				{ "item": "thorium", "amount": 20 },
+				{ "item": "dark-steel", "amount": 60 }
 			]
 		}
 	},

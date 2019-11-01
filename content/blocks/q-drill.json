@@ -15,9 +15,9 @@
 		"power": 15.0
 	},
 	"requirements": [
-		{ "item": "quantum-ingot", "amount": 3 },
+		{ "item": "quantum-ingot", "amount": 2 },
 		{ "item": "dark-steel", "amount": 250 },
-		{ "item": "plut", "amount": 20 }
+		{ "item": "plut", "amount": 30 }
 	],
 	"category": "production"
 	"research": "super-drill"

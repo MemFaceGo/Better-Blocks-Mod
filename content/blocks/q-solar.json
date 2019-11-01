@@ -6,8 +6,9 @@
 	"health": 20000,
     "powerProduction": 20,
 	"requirements": [
-		{"item": "quantum-ingot", "amount": 15},
-		{"item": "titanium", "amount": 40}
+		{"item": "quantum-ingot", "amount": 2},
+		{"item": "dark-steel", "amount": 1600},
+		{"item": "silicon", "amount": 600}
 	],
 	"category": "power"
 	"research": "solar-panel-large"

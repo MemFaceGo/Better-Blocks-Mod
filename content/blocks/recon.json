@@ -20,6 +20,7 @@
 	},
 	"requirements": [
 		{ "item": "nuclear-fuel", "amount": 12 },
+		{ "item": "dark-steel", "amount": 600 }
 		{ "item": "diamond", "amount": 10 }
 	],
 	"category": "crafting",

@@ -5,9 +5,10 @@
 	"health": 12000,
 	"category": "power",
 	"requirements": [
-		{"item": "quantum-ingot", "amount": 10}
-		{"item": "titanium", "amount": 35}
+		{"item": "quantum-ingot", "amount": 2},
+		{"item": "dark-steel", "amount": 1400}
+		{"item": "lithium", "amount": 700}
 	],
-	"consumes": { "powerBuffered": 1000000000 }
+	"consumes": { "powerBuffered": 12000000 }
 	"research": "battery-large"
 }

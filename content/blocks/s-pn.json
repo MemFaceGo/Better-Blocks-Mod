@@ -7,7 +7,9 @@
 	"maxNodes": 40,
 	"laserRange": 70,
 	"requirements": [
-		{ "item": "quantum-ingot", "amount": 6 }
+		{ "item": "quantum-ingot", "amount": 1 },
+		{ "item": "dark-steel", "amount": 400 },
+		{ "item": "lithium", "amount": 100 }
 	],
 	"category": "power"
 	"research": "surge-tower"

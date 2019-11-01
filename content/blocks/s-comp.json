@@ -20,7 +20,8 @@
 	},
 	"requirements": [
 		{ "item": "nuclear-fuel", "amount": 20 },
-		{ "item": "comp-titanium", "amount": 60 }
+		{ "item": "comp-titanium", "amount": 60 },
+		{ "item": "dark-steel", "amount": 140 }
 	],
 	"category": "crafting",
 	"idleSound": "respawning",

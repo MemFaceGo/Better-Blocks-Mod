@@ -1,0 +1,31 @@
+{
+	"type": "GenericSmelter",
+	"name": "Extractor Type [#b4c4ca]Li",
+	"description": "Uses Enriched Slag to get Lithium",
+	"health": 3000,
+	"liquidCapacity": 15,
+	"itemCapacity": 60,
+	"outputItem": {"item": "lithium", "amount": 1},
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": true,
+	"hasItems": true,
+	"craftTime": 24,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 4.0,
+		"liquid": {
+			"liquid": "enriched-slag",
+			"amount": 0.012
+		}
+	},
+	"requirements": [
+		{ "item": "titanium", "amount": 120 },
+		{ "item": "carbon", "amount": 50 },
+		{ "item": "dark-steel", "amount": 100 }
+	],
+	"category": "crafting",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.2
+	"research": "melter-t-a"
+}

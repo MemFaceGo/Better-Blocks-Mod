@@ -11,8 +11,9 @@
 		"power": 2.5
 	},
 	"requirements": [
-		{ "item": "quantum-ingot", "amount": 10 },
-		{ "item": "silicon", "amount": 50 }
+		{ "item": "quantum-ingot", "amount": 2 },
+		{ "item": "silicon", "amount": 600 },
+		{ "item": "dark-steel", "amount": 900 }
 	],
 	"category": "effect"
 	"research": "mend-projector"

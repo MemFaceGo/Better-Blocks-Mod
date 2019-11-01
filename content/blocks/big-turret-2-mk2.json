@@ -34,9 +34,10 @@
 		}
 	},
 	"requirements": [
-		{ "item": "diamond", "amount": 40 },
-		{ "item": "quantum-ingot", "amount": 10 },
-		{ "item": "ruby", "amount": 20 },
+		{ "item": "diamond", "amount": 400 },
+		{ "item": "quantum-ingot", "amount": 5 },
+		{ "item": "dark-steel", "amount": 500 }
+		{ "item": "ruby", "amount": 120 },
 		{ "item": "super-tithorium", "amount": 80 }
 	],
 	"category": "turret"

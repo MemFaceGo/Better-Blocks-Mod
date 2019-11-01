@@ -4,6 +4,7 @@
 		{ "item": "lead", "amount": 3},
 		{ "item": "graphite", "amount": 2},
 		{ "item": "iron", "amount": 3},
-		{ "item": "titanium", "amount": 2}
+		{ "item": "titanium", "amount": 2},
+		{ "item": "lithium", "amount": 2}
 	]
 }

@@ -1,0 +1,14 @@
+{
+	"type": "SolarGenerator",
+	"name": "Dark Matter Reactor",
+	"description": "Generates alot of energy",
+	"size": 2,
+	"health": 24000,
+    "powerProduction": 5000,
+	"requirements": [
+		{"item": "quantum-ingot", "amount": 20},
+		{"item": "dark-matter", "amount": 5}
+	],
+	"category": "power"
+	"research": "q-generator"
+}

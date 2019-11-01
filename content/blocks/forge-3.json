@@ -27,7 +27,8 @@
 	"requirements": [
 		{ "item": "tithorium", "amount": 60 },
 		{ "item": "titanium", "amount": 200 },
-		{ "item": "super-tithorium", "amount": 18 }
+		{ "item": "super-tithorium", "amount": 18 },
+		{ "item": "dark-steel", "amount": 600 }
 	],
 	"category": "crafting",
 	"idleSound": "respawning",

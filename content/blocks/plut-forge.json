@@ -21,6 +21,7 @@
 	},
 	"requirements": [
 		{ "item": "comp-titanium", "amount": 40 },
+		{ "item": "dark-steel", "amount": 200 }
 		{ "item": "nuclear-fuel", "amount": 5 },
 		{ "item": "enriched-uran", "amount": 12 }
 	],

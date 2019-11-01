@@ -1,0 +1,34 @@
+{
+	"type": "GenericSmelter",
+	"name": "Concentrator",
+	"description": "Uses coal and oil to get carbon-mass",
+	"health": 1400,
+	"itemCapacity": 20,
+	"outputItem": { "item": "carbon-mass", "amount": 1 }
+	"size": 2,
+	"hasPower": true,
+	"hasItems": true,
+	"craftTime": 90,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 5.0,
+		"liquid": {
+			"liquid": "oil",
+			"amount": 0.2
+		}
+		"items": {
+			"items": [
+				{ "item": "coal", "amount": 10 }
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "dark-steel", "amount": 70 },
+		{ "item": "thorium", "amount": 30 },
+		{ "item": "comp-titanium", "amount": 20 }
+	],
+	"category": "crafting",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.08
+	"research": "separator"
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Large Steel Wall",
+	"description": "Large Nice wall with high protection",
+	"type": "Wall",
+	"health": 4080,
+	"size": 2,
+	"requirements": [
+		{ "item": "dark-steel", "amount": 24 }
+	],
+	"category": "defense"
+	"research": "steel-wall"
+}

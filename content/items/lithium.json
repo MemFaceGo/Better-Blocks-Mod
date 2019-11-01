@@ -1,0 +1,11 @@
+{
+	"type": "material",
+	"name": "Lithium",
+	"description": "You can use this material to make better battery",
+	"hardness": 6,
+	"cost": 1.5,
+	"color": "#b4c4ca",
+	"radioactivity": 0.0
+	"explosiveness": 0.2
+	"flammability": 0.45
+}

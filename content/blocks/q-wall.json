@@ -2,10 +2,10 @@
 	"name": "Quantum Wall",
 	"description": "OP Wall... Nothing more.",
 	"type": "Wall",
-	"health": 100000,
+	"health": 8050,
 	"size": 1,
 	"requirements": [
-		{ "item": "quantum-ingot", "amount": 6 }
+		{ "item": "quantum-ingot", "amount": 1 }
 	],
 	"category": "defense"
 	"research": "uran-wall"

@@ -34,7 +34,8 @@
 		}
 	},
 	"requirements": [
-		{ "item": "super-tithorium", "amount": 18 },
+		{ "item": "super-tithorium", "amount": 25 },
+		{ "item": "dark-steel", "amount": 200 }
 		{ "item": "diamond", "amount": 12 },
 		{ "item": "nuclear-fuel", "amount": 20 },
 		{ "item": "plut", "amount": 30 }

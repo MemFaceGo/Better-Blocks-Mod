@@ -27,6 +27,7 @@
 	"damage": 10,
 	"requirements": [
 		{ "item": "comp-titanium", "amount": 18 },
+		{ "item": "dark-steel", "amount": 70 }
 		{ "item": "tithorium", "amount": 25 },
 		{ "item": "enriched-uran", "amount": 5 }
 	],

@@ -1,0 +1,12 @@
+{
+	"name": "Steel Wall",
+	"description": "Nice wall with high protection",
+	"type": "Wall",
+	"health": 1020,
+	"size": 1,
+	"requirements": [
+		{ "item": "dark-steel", "amount": 6 }
+	],
+	"category": "defense"
+	"research": "titanium-wall"
+}

@@ -1,0 +1,30 @@
+{
+	"type": "GenericSmelter",
+	"name": "Carbonator",
+	"description": "Uses carbon-mass to get carbon",
+	"health": 2000,
+	"itemCapacity": 20,
+	"outputItem": { "item": "carbon", "amount": 1 }
+	"size": 2,
+	"hasPower": true,
+	"hasItems": true,
+	"craftTime": 240,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 5.0,
+		"items": {
+			"items": [
+				{ "item": "carbon-mass", "amount": 2 }
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "dark-steel", "amount": 120 },
+		{ "item": "thorium", "amount": 40 },
+		{ "item": "comp-titanium", "amount": 25 }
+	],
+	"category": "crafting",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.08
+	"research": "concentrator"
+}

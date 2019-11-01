@@ -21,11 +21,13 @@
 		}
 	},
 	"requirements": [
-		{ "item": "quantum-ingot", "amount": 6 },
-		{ "item": "ruby", "amount": 10 },
-		{ "item": "nuclear-fuel", "amount": 30 }
+		{ "item": "quantum-ingot", "amount": 3 },
+		{ "item": "ruby", "amount": 40 },
+		{ "item": "nuclear-fuel", "amount": 70 },
+		{ "item": "dark-steel", "amount": 800 },
+		{ "item": "titanium", "amount": 1600 }
 	],
 	"category": "power"
 	"heating": 0.008
-	"research": "impact-reactor"
+	"research": "nuc-reactor"
 }
