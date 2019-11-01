@@ -1,7 +1,7 @@
 {
 	"type": "GenericSmelter",
 	"name": "Carbonator",
-	"description": "Uses carbon-mass to get carbon",
+	"description": "Uses carbon mass to get carbon",
 	"health": 2000,
 	"itemCapacity": 20,
 	"outputItem": { "item": "carbon", "amount": 1 }
