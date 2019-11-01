@@ -1,0 +1,8 @@
+{
+	"name": "Enriched Slag",
+	"description": "This Slag has more rare materials than common slag",
+	"temperature": 1,
+    "viscosity": 0.8,
+    "effect": "melting",
+    "color": "F6C675"
+}
