@@ -16,6 +16,7 @@
 			"items": [
 				{ "item": "tithorium", "amount": 3 },
 				{ "item": "thorium", "amount": 20 }
+			]
 		}
 	},
 	"requirements": [
