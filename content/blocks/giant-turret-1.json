@@ -9,7 +9,6 @@
 	"reload": 10,
 	"shootCone": 20,
 	"shootType": "meltdownLaser"
-	"rotateSpeed": 90,
 	"powerUse": 10.0,
 	"range": 240,
 	"shootShake": 3

@@ -11,13 +11,12 @@
 	"recoil": 2,
 	"shootCone": 30,
 	"shootSound": "shootSnap"
-	"rotateSpeed": 25,
 	"range": 120,
 	"ammo": {
 		"blast-compound": {
 			"damage": 100,
 			"bulletWidth": 19,
-			"bulletLength": 26,
+			"bulletHeigth": 26,
 			"splashDamage": 300,
 			"splashDamageRadius": 60,
 			"shootEffect": "shootBig"

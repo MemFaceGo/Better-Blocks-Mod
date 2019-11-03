@@ -8,7 +8,6 @@
     "drag": 0.01,
     "range": 150.0,
     "shootCone": 40.0,
-	"engineColor": "#64be64"
     "flying": true,
     "engineOffset": 1,
     "engineSize": 1,

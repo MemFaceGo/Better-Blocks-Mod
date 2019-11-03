@@ -5,10 +5,8 @@
     "mass": 6.0,
     "speed": 0.1,
     "maxVelocity": 1.0,
-	"rotateSpeed": 4
     "drag": 0.01,
     "shootCone": 40.0,
-	"engineColor": "#64be64"
     "flying": true,
     "engineOffset": 1,
     "engineSize": 1,

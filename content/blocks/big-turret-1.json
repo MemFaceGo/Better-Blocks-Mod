@@ -20,11 +20,8 @@
     "shootShake": 1.9
 	"reload": 50,
 	"shootCone": 80,
-	"rotateSpeed": 30,
 	"shots": 4,
 	"range": 320,
-	"burstSpacing": 6,
-	"damage": 10,
 	"requirements": [
 		{ "item": "comp-titanium", "amount": 18 },
 		{ "item": "dark-steel", "amount": 70 }

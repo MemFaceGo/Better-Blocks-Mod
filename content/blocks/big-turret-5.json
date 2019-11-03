@@ -13,7 +13,6 @@
 	"shootCone": 50,
 	"shootEffect": "shootLiquid"
 	"shootSound": "splash"
-	"rotateSpeed": 25,
 	"range": 230,
 	"ammo": {
 		"titanium": "cryoShot",

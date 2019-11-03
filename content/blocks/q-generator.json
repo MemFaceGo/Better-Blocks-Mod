@@ -7,7 +7,6 @@
 	"size": 4,
 	"hasLiquids": true,
 	"itemDuration": 7200,
-	"updateEffect": "smeltsmoke",
 	"powerProduction": 750,
 	"consumes": {
 		"items": {

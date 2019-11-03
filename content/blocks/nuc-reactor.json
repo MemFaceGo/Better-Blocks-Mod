@@ -7,7 +7,6 @@
 	"hasLiquids": true,
     "powerProduction": 250,
     "itemDuration" : 150,
-	"updateEffect": "smeltsmoke",
 	"consumes": {
 	    "power": 40.0,
 		"item": "nuclear-fuel",

@@ -20,7 +20,6 @@
 	"shootType": "lancerLaser",
 	"inaccuracy": 0.1,
 	"rotatespeed": 12,
-	"burstSpacing": 6,
 	"requirements": [
 		{ "item": "dark-steel", "amount": 65 },
 		{ "item": "uran", "amount": 15 },

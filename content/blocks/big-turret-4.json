@@ -9,7 +9,6 @@
 	"inaccuracy": 10,
 	"reload": 40,
 	"shootCone": 40,
-	"rotateSpeed": 25,
 	"shots": 4,
 	"range": 175,
 	"burstSpacing": 6,
