@@ -17,7 +17,7 @@
 			"speed": 12,
 			"damage": 400,
 			"bulletWidth": 8,
-			"bulletHeigth": 23,
+			"bulletHeight": 23,
 			"frontColor": #ffaf4a,
 			"backColor": #ffaf9a,
 			"shootEffect": "shootBig"

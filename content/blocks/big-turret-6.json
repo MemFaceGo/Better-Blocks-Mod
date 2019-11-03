@@ -16,7 +16,7 @@
 		"blast-compound": {
 			"damage": 100,
 			"bulletWidth": 19,
-			"bulletHeigth": 26,
+			"bulletHeight": 26,
 			"splashDamage": 300,
 			"splashDamageRadius": 60,
 			"shootEffect": "shootBig"
