@@ -12,8 +12,18 @@
 	"weapon": {
 		"name": "OOF",
 		"length": 3.5,
-		"reload": 12,
+		"reload": 6,
 		"alternate": true,
-		"bullet": "lancerLaser"
+		"bullet": {
+			"speed": 12,
+			"damage": 400,
+			"bulletWidth": 8,
+			"bulletHeigth": 23,
+			"frontColor": #ffaf4a,
+			"backColor": #ffaf9a,
+			"shootEffect": "shootBig"
+			"hitEffect": "hitFlameSmall",
+			"despawnEffect": "none"
+		}
 	}
 }
