@@ -5,10 +5,16 @@
 	"size": 2,
 	"health": 10000,
 	"tier": 8,
-	"drillTime": 180,
+	"drillTime": 150,
 	"rotateSpeed": 9,
 	"consumes": {
 		"power": 8.0
+		"liquid": {
+			"liquid": "cryofluid",
+			"amount": 0.06,
+			"optional": true,
+			"booster": true
+		}
 	},
 	"requirements": [
 		{ "item": "super-tithorium", "amount": 30 },

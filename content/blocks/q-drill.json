@@ -5,7 +5,7 @@
 	"size": 3,
 	"health": 35000,
 	"tier": 12,
-	"drillTime": 60,
+	"drillTime": 50,
 	"rotateSpeed": 12,
 	"drawRim": true
 	"updateEffect": "pulverizeRed"
@@ -13,6 +13,12 @@
 	"updateEffectChance": 0.03
 	"consumes": {
 		"power": 15.0
+		"liquid": {
+			"liquid": "cryofluid",
+			"amount": 0.3,
+			"optional": true,
+			"booster": true
+		}
 	},
 	"requirements": [
 		{ "item": "quantum-ingot", "amount": 2 },

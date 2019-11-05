@@ -6,9 +6,16 @@
 	"size": 3,
 	"range": 150,
 	"reload": 300
+	"phase": "#720874",
+	"color": "#17C50B",
 	"healPercent": 40,
 	"consumes": {
 		"power": 2.5
+		"items": {
+			"items": [ { "amount": 1, "item": "nuclear-fuel" } ],
+			"booster": true,
+			"optional": true
+		}
 	},
 	"requirements": [
 		{ "item": "quantum-ingot", "amount": 2 },

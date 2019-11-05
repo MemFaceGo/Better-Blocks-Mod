@@ -5,7 +5,7 @@
 	"size": 3,
 	"health": 2000,
 	"tier": 8,
-	"drillTime": 160,
+	"drillTime": 130,
 	"rotateSpeed": 8,
 	"drawRim": true
 	"updateEffect": "pulverizeRed"
@@ -13,6 +13,12 @@
 	"updateEffectChance": 0.03
 	"consumes": {
 		"power": 12.0
+		"liquid": {
+			"liquid": "cryofluid",
+			"amount": 0.15,
+			"optional": true,
+			"booster": true
+		}
 	},
 	"requirements": [
 		{ "item": "nuclear-fuel", "amount": 6 },

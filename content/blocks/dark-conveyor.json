@@ -1,0 +1,14 @@
+{
+	"type": "Conveyor",
+	"name": "Dark conveyor",
+	"description": "Dark Dark conveyor",
+	"health": 250,
+	"requirements": [
+		{"item": "dark-steel", "amount": 1},
+		{"item": "carbon", "amount": 1},
+		{"item": "carbon-mass", "amount": 1}
+	],
+	"category": "distribution",
+	"speed": 0.12
+	"research": "iron-conveyor"
+}

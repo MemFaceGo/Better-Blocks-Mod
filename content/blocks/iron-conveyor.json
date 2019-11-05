@@ -1,0 +1,13 @@
+{
+	"type": "Conveyor",
+	"name": "Iron conveyor",
+	"description": "Better than common conveyor ,but worse than titanium",
+	"health": 55,
+	"requirements": [
+		{"item": "iron", "amount": 1},
+		{"item": "copper", "amount": 1}
+	],
+	"category": "distribution",
+	"speed": 0.05
+	"research": "armored-conveyor"
+}

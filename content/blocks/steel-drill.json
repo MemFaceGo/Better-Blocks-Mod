@@ -5,13 +5,19 @@
 	"size": 3,
 	"health": 6000,
 	"tier": 6,
-	"drillTime": 360,
+	"drillTime": 240,
 	"rotateSpeed": 7,
 	"drawRim": true
 	"updateEffect": "pulverizeRed"
 	"updateEffectChance": 0.03
 	"consumes": {
 		"power": 5.0
+		"liquid": {
+			"liquid": "water",
+			"amount": 0.15,
+			"optional": true,
+			"booster": true
+		}
 	},
 	"requirements": [
 		{ "item": "dark-steel", "amount": 40 },

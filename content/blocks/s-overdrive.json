@@ -1,0 +1,29 @@
+{
+	"name": "Super Overdrive Projector",
+	"description": "OP version of overdrive projector",
+	"type": "OverdriveProjector"
+	"health": 40000,
+	"size": 2,
+	"range": 150,
+	"reload": 60,
+	"speedBoost": 3,
+	"useTime": 800,
+	"phase": "#720874",
+	"color": "#17C50B",
+	"healPercent": 40,
+	"consumes": {
+		"power": 7.5,
+		"items": {
+			"items": [ { "amount": 1, "item": "nuclear-fuel" } ],
+			"booster": true,
+			"optional": true
+		}
+	},
+	"requirements": [
+		{ "item": "quantum-ingot", "amount": 3 },
+		{ "item": "silicon", "amount": 800 },
+		{ "item": "dark-steel", "amount": 1200 }
+	],
+	"category": "effect"
+	"research": "overdrive-projector"
+}

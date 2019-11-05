@@ -1,5 +1,6 @@
 {
 	"name": "Nuclear Reactor Floor",
 	"type": "Floor",
+	"attributes": { "array": [ 0.75, 0, 0, 0 ] }
 	"variants": 3
 }
