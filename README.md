@@ -6,6 +6,15 @@ This mod adds more blocks , materials and enemies (I'll add enemies soon) (OH NO
 - [LonelyYmomfe](https://github.com/ymomfe) (Ukrainian)
 - Makc - Carbon (Ukrainian)
 
+## Update v1.4
+- Added 2 New Conveyors
+- Added Super Overdrive Projector
+- Added Teleport (from Mindustry Classic)
+- Revamped Batteries
+- Fixed Block Boost
+
+![Logo](sprites/Screenshot_586.png)
+
 ## Update v1.3
 - Added 14 new blocks
 - Added 3 New items
@@ -13,8 +22,3 @@ This mod adds more blocks , materials and enemies (I'll add enemies soon) (OH NO
 - Some Fixes
 
 ![Logo](sprites/Screenshot_562.png)
-
-## Update v1.2.2
-- Added research for all mod blocks (Tech Tree)
-
-![Logo](sprites/Screenshot_534.png)
