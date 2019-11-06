@@ -1,7 +1,7 @@
 {
 	"type": "GenericSmelter",
 	"name": "Nuclear Forge"
-	"description": "If you need more uranium , use this machine.",
+	"description": "Decompresses and reforges compressed thorium into radioactive uranium",
 	"health": 2000,
 	"itemCapacity": 4,
 	"outputItem": {"item": "uran", "amount": 1},
