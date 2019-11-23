@@ -1,0 +1,9 @@
+{
+	"type": "material",
+	"name": "[#5BDBD5]Divinium",
+	"description": "The reverse version of dark matter",
+	"hardness": 20,
+	"cost": 18000.0,
+	"color": "#5BDBD5",
+	"radioactivity": -1
+}
