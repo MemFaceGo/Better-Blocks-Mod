@@ -5,6 +5,7 @@ This mod adds more blocks , materials and enemies (I'll add enemies soon) (OH NO
 - [MemFaceGo](https://github.com/MemFaceGo) (Russian - Owner)
 - [LonelyYmomfe](https://github.com/ymomfe) (Ukrainian)
 - Makc - Carbon (Ukrainian)
+- NoName (Korean)
 
 ## Update v1.4
 - Added 2 New Conveyors
