@@ -1,0 +1,9 @@
+{
+	"type": "Conveyor",
+	"name": "OH NO",
+	"description": "oh no",
+	"health": 20000,
+	"buildVisibility": "sandboxOnly",
+	"category": "distribution",
+	"speed": 10.00
+}
