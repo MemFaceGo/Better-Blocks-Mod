@@ -1,15 +1,6 @@
 {
   "name": "[purple]Better[] blocks mod",
   "author": "MemFaceGo",
-  "description": "This mod made for sandbox and adds more blocks , materials , enemies and new campaign maps
- --------------
- [#559955]Translators[white]: 
- 
- [red]Ру[blue]сс[white]кий[white]:
- [white]-[#22BB22]MemFaceGo[white]
- 
- [yellow]Україн[blue]ський[white]:
- [white]-[#22BB22]LonelyYmomfe[white]
- [white]-[#22BB22]Makc - Carbon[white]",
-  "version": 1.3
+  "description": "This mod made for sandbox and adds more blocks , materials , enemies and new campaign maps\n --------------\n [#559955]Translators[white]:\n \n [red]Ру[blue]сс[white]кий[white]:\n [white]-[#22BB22]MemFaceGo[white]\n \n [yellow]Україн[blue]ський[white]:\n [white]-[#22BB22]LonelyYmomfe[white]\n [white]-[#22BB22]Makc - Carbon[white]",
+  "version": "1.3"
 }
