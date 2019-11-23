@@ -1,8 +1,7 @@
 {
 	"type": "itemTurret",
 	"name": "[#08DBC1]Cryogeniser",
-	"description": "Has a built-in cryofluid factory, which converts titanium to cryofluid and shoots it out at high velocities. 
-	(Thanks [blue]Ilya246[] for name and desc)",
+	"description": "Has a built-in cryofluid factory, which converts titanium to cryofluid and shoots it out at high velocities. (Thanks [blue]Ilya246[] for name and desc)",
 	"targetAir": true,
 	"targetGround": true,
 	"health": 1500,
