@@ -1,0 +1,12 @@
+{
+	"name": "Tithorium Wall",
+	"description": "Has enough protection to be better than dark steel wall",
+	"type": "Wall",
+	"health": 1350,
+	"size": 1,
+	"requirements": [
+		{ "item": "tithorium", "amount": 6 }
+	],
+	"category": "defense"
+	"research": "steel-wall"
+}
