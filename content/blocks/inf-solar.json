@@ -1,0 +1,14 @@
+{
+	"type": "SolarGenerator",
+	"name": "Infinity Solar Generator",
+	"description": "The best solar panel",
+	"size": 3,
+	"health": 32000,
+    "powerProduction": 6000,
+	"requirements": [
+		{"item": "infinitium", "amount": 2},
+		{"item": "dark-matter", "amount": 5}
+	],
+	"category": "power"
+	"research": "q-solar"
+}

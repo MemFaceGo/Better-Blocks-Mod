@@ -1,0 +1,14 @@
+{
+	"type": "SolarGenerator",
+	"name": "Infinity Generator",
+	"description": "Generates [red]ALOT[] of energy",
+	"size": 3,
+	"health": 51000,
+    "powerProduction": 12000,
+	"requirements": [
+		{"item": "infinitium", "amount": 4},
+		{"item": "dark-matter", "amount": 12}
+	],
+	"category": "power"
+	"research": "dm-reactor"
+}
