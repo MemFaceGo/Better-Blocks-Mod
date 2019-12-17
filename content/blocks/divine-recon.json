@@ -1,0 +1,31 @@
+{
+	"type": "GenericSmelter",
+	"name": "[#5BDBD5]Divine Reconstructor"
+	"description": "Use this machine to get [#5BDBD5]Divinium",
+	"health": 30000,
+	"itemCapacity": 25,
+	"outputItem": {"item": "divinium", "amount": 1},
+	"size": 8,
+	"hasPower": true,
+	"hasItems": true,
+	"craftTime": 2000,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 333.3333,
+		"items": {
+			"items": [
+				{ "item": "dark-matter", "amount": 1 },
+				{ "item": "diamond", "amount": 20 }
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "quantum-ingot", "amount": 18 },
+		{ "item": "dark-steel", "amount": 3000 },
+		{ "item": "dark-matter", "amount": 2 }
+	]
+	"category": "crafting",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.05
+	"research": "atomic-forge"
+}
