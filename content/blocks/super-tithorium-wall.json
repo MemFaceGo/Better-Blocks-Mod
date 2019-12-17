@@ -1,0 +1,12 @@
+{
+	"name": "Super Tithorium Wall",
+	"description": "Has more protection than common tithorium wall",
+	"type": "Wall",
+	"health": 2030,
+	"size": 1,
+	"requirements": [
+		{ "item": "super-tithorium", "amount": 6 }
+	],
+	"category": "defense"
+	"research": "tithorium-wall"
+}

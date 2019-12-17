@@ -1,0 +1,12 @@
+{
+	"name": "Large Super Tithorium Wall",
+	"description": "Large Super Tithorium Wall , or LSTW. Larger version of STW (Super Tithorium Wall)",
+	"type": "Wall",
+	"health": 8120,
+	"size": 2,
+	"requirements": [
+		{ "item": "super-tithorium", "amount": 24 }
+	],
+	"category": "defense"
+	"research": "super-tithorium-wall"
+}
