@@ -1,0 +1,13 @@
+{
+	"name": "Infinity Wall",
+	"description": "POWER OF INFINITY",
+	"type": "Wall",
+	"health": 17500,
+	"size": 1,
+	"requirements": [
+		{ "item": "infinitium", "amount": 1 },
+		{ "item": "dark-matter", "amount": 2 }
+	],
+	"category": "defense"
+	"research": "q-wall"
+}

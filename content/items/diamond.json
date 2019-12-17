@@ -3,7 +3,7 @@
 	"name": "Diamond",
 	"description": "Diamond ball...",
 	"hardness": 10,
-	"cost": 25.0,
+	"cost": 15.0,
 	"color": "#ADD8E6",
 	"radioactivity": 0.0
 	"explosiveness": 0.0

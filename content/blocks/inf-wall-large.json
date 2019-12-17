@@ -1,0 +1,13 @@
+{
+	"name": "Large Infinity Wall",
+	"description": "MORE POWER OF INFINITY",
+	"type": "Wall",
+	"health": 70000,
+	"size": 2,
+	"requirements": [
+		{ "item": "infinitium", "amount": 4 },
+		{ "item": "dark-matter", "amount": 8 }
+	],
+	"category": "defense"
+	"research": "inf-wall"
+}
