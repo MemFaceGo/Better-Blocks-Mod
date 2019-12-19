@@ -8,10 +8,10 @@
 	"size": 1,
 	"hasPower": true,
 	"hasItems": true,
-	"craftTime": 1280,
+	"craftTime": 120,
 	"updateEffect": "smeltsmoke",
 	"consumes": {
-		"power": 25.0,
+		"power": 12.0,
 		"items": {
 			"items": [
 				{ "item": "uran", "amount": 2 }

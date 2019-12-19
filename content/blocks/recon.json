@@ -8,10 +8,10 @@
 	"size": 3,
 	"hasPower": true,
 	"hasItems": true,
-	"craftTime": 7200,
+	"craftTime": 300,
 	"updateEffect": "smeltsmoke",
 	"consumes": {
-		"power": 50.0,
+		"power": 20.0,
 		"items": {
 			"items": [
 				{ "item": "diamond", "amount": 1 }

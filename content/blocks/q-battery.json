@@ -9,6 +9,6 @@
 		{"item": "dark-steel", "amount": 1400}
 		{"item": "lithium", "amount": 700}
 	],
-	"consumes": { "powerBuffered": 12000000 }
+	"consumes": { "powerBuffered": 20000000 }
 	"research": "battery-large"
 }

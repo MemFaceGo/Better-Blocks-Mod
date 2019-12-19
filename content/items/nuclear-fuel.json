@@ -3,7 +3,7 @@
 	"name": "Nuclear Fuel",
 	"description": "o_o",
 	"hardness": 1,
-	"cost": 20.0,
+	"cost": 15.0,
 	"color": "#00FF00",
 	"radioactivity": 3.5
 	"explosiveness": 0.0

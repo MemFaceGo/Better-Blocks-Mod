@@ -8,10 +8,10 @@
 	"size": 8,
 	"hasPower": true,
 	"hasItems": true,
-	"craftTime": 18000,
+	"craftTime": 600,
 	"updateEffect": "smeltsmoke",
 	"consumes": {
-		"power": 833.3333,
+		"power": 333.3333,
 		"items": {
 			"items": [
 				{ "item": "quantum-ingot", "amount": 4 }

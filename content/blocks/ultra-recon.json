@@ -1,17 +1,17 @@
 {
 	"type": "GenericSmelter",
-	"name": "[#5BDBD5]Ultra Reconstructor"
-	"description": "Use this machine to get [#5BDBD5]Divinium",
+	"name": "[#666666]Ultra [#FFFFFF]Reconstructor"
+	"description": "Use this machine to get [#FFFFFF]I[#EEEEEE]n[#DDDDDD]f[#CCCCCC]i[#BBBBBB]n[#AAAAAA]i[#999999]t[#888888]i[#777777]u[#666666]m",
 	"health": 60000,
 	"itemCapacity": 5,
 	"outputItem": {"item": "infinitium", "amount": 1},
 	"size": 8,
 	"hasPower": true,
 	"hasItems": true,
-	"craftTime": 6000,
+	"craftTime": 900,
 	"updateEffect": "smeltsmoke",
 	"consumes": {
-		"power": 1000,
+		"power": 200,
 		"items": {
 			"items": [
 				{ "item": "dark-matter", "amount": 3 },

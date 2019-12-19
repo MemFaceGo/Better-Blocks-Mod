@@ -3,7 +3,7 @@
 	"name": "Enriched Uranium",
 	"description": "More radioactive material than Uranium",
 	"hardness": 5,
-	"cost": 10.0,
+	"cost": 7.0,
 	"color": "#7CFC00",
 	"radioactivity": 1.8
 	"explosiveness": 0.2

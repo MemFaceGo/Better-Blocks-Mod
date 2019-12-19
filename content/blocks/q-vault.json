@@ -2,7 +2,7 @@
 	"name": "Quantum Vault",
 	"description": "The best vault",
 	"type": "Vault",
-	"itemCapacity": 100000,
+	"itemCapacity": 300000,
 	"hasItems": true,
 	"health": 100000,
 	"size": 3,

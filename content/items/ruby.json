@@ -3,7 +3,7 @@
 	"name": "[red]Ruby",
 	"description": "Ruby ball... or remake of diamond",
 	"hardness": 10,
-	"cost": 40.0,
+	"cost": 18.0,
 	"color": "#DC143C",
 	"radioactivity": 0.0
 	"explosiveness": 0.0

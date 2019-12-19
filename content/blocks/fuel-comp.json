@@ -8,10 +8,10 @@
 	"size": 3,
 	"hasPower": true,
 	"hasItems": true,
-	"craftTime": 320,
+	"craftTime": 60,
 	"updateEffect": "smeltsmoke",
 	"consumes": {
-		"power": 18.0,
+		"power": 8.0,
 		"items": {
 			"items": [
 				{ "item": "comp-thorium", "amount": 12 },

@@ -8,10 +8,10 @@
 	"size": 8,
 	"hasPower": true,
 	"hasItems": true,
-	"craftTime": 2000,
+	"craftTime": 120,
 	"updateEffect": "smeltsmoke",
 	"consumes": {
-		"power": 333.3333,
+		"power": 66.6666,
 		"items": {
 			"items": [
 				{ "item": "dark-matter", "amount": 1 },

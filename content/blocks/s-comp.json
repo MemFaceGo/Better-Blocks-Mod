@@ -8,10 +8,10 @@
 	"size": 3,
 	"hasPower": true,
 	"hasItems": true,
-	"craftTime": 3600,
+	"craftTime": 150,
 	"updateEffect": "smeltsmoke",
 	"consumes": {
-		"power": 40.0,
+		"power": 10.0,
 		"items": {
 			"items": [
 				{ "item": "coal", "amount": 40 }

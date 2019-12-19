@@ -6,7 +6,7 @@
 	"size": 6,
 	"hasLiquids": true,
     "powerProduction": 250,
-    "itemDuration" : 150,
+    "itemDuration" : 250,
 	"consumes": {
 	    "power": 40.0,
 		"item": "nuclear-fuel",

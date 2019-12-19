@@ -21,7 +21,7 @@
 		},
 		"liquid": {
 			"liquid": "quantum-liquid",
-			"amount": 0.5
+			"amount": 0.2
 		}
 	},
 	"requirements": [

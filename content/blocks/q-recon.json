@@ -10,10 +10,10 @@
 	"hasPower": true,
 	"hasItems": true,
 	"hasLiquids": true,
-	"craftTime": 240,
+	"craftTime": 60,
 	"updateEffect": "smeltsmoke",
 	"consumes": {
-		"power": 8.0,
+		"power": 10.0,
 		"items": {
 			"items": [
 				{ "item": "plut", "amount": 3 },

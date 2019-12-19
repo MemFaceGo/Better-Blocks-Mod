@@ -9,6 +9,6 @@
 		{"item": "dark-steel", "amount": 40}
 		{"item": "titanium", "amount": 60}
 	],
-	"consumes": { "powerBuffered": 350000 }
+	"consumes": { "powerBuffered": 500000 }
 	"research": "battery-large"
 }

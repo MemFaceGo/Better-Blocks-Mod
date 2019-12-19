@@ -5,7 +5,7 @@
 	"size": 5,
 	"health": 75000,
 	"tier": 15,
-	"drillTime": 30,
+	"drillTime": 20,
 	"rotateSpeed": 14,
 	"drawRim": true
 	"updateEffect": "pulverizeRed"
