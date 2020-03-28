@@ -1,0 +1,27 @@
+name: Iron Mine
+description: You can find iron here
+loadout: basicFoundation
+startingItems: [
+  copper/1000
+  lead/500
+  titanium/300
+  thorium/200
+]
+launchPeriod: 10
+requirements: [
+  {
+    type: ZoneWave
+    zone: saltFlats
+    wave: 40
+  }
+]
+resources: [
+  copper
+  lead
+  coal
+  sand
+  titanium
+  thorium
+  iron
+  uran
+]
