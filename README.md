@@ -24,5 +24,5 @@ This mod adds more blocks , materials and enemies (I'll add enemies soon) (OH NO
 - Added new liquid
 - Some Fixes
 
-![Logo](sprites/Screenshot_562.png)
+![Logo](sprites/Screenshot_562.png) 
 
