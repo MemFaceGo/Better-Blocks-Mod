@@ -1,0 +1,31 @@
+{
+    "type": "wraith",
+    "name": "Nucledon",
+    "health": 2000,
+    "mass": 12.0,
+    "speed": 0.5,
+    "maxVelocity": 1.0,
+    "drag": 0.01,
+    "shootCone": 40.0,
+    "flying": true,
+    "engineOffset": 1,
+    "engineSize": 3,
+    "weapon": {
+        "length": 10.0,
+        "reload": 20.0,
+        "width": 20.0,
+        "shots": 2,
+        "inaccuracy": 10.0,
+        "alternate": true,
+        "ejectEffect": "shellEjectSmall",
+        "shootSound": "shoot",
+        "bullet": {
+			"speed": 20,
+			"damage": 40
+			"bulletWidth": 4,
+			"bulletHeight": 10,
+			"frontColor": "4acf4d",
+			"backColor": "8cff8f",
+		}
+    }
+}

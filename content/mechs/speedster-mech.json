@@ -18,8 +18,8 @@
 			"damage": 400,
 			"bulletWidth": 8,
 			"bulletHeight": 23,
-			"frontColor": #ffaf4a,
-			"backColor": #ffaf9a,
+			"frontColor": "ffaf4a",
+			"backColor": "ffaf9a",
 			"shootEffect": "shootBig"
 			"hitEffect": "hitFlameSmall",
 			"despawnEffect": "none"
