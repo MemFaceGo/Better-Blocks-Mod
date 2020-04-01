@@ -1,5 +1,6 @@
 {
 	"name": "Attention Wall",
 	"type": "StaticWall",
-	"variants": 3
+	"variants": 3,
+	"size": 3
 }
