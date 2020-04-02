@@ -1,0 +1,6 @@
+{
+	"name": "Non-Signed Wall",
+	"type": "StaticWall",
+	"variants": 3,
+	"size": 3
+}
