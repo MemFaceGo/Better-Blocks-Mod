@@ -1,6 +1,6 @@
 {
 	"name": "Speedster",
-	"description": "The fastest and strongest mech",
+	"description": "Empowered Striker unit that can be controlled",
 	"speed": 3.0,
 	"buildPower": 200.0,
 	"engineColor": "666495",

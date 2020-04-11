@@ -1,0 +1,33 @@
+{
+    "type": "wraith",
+    "name": "Devourer",
+    "health": 70000,
+    "mass": 120.0,
+    "speed": 0.2,
+    "maxVelocity": 1.2,
+	"rotatespeed": 0.05,
+	"attackLength": 240.0,
+    "drag": 0.01,
+    "shootCone": 2.0,
+    "flying": true,
+    "engineOffset": 8,
+    "engineSize": 8,
+	"baseRotateSpeed": 0.05,
+    "weapon": {
+        "length": 20.0,
+        "reload": 120.0,
+        "width": 20.0,
+        "shots": 5,
+        "inaccuracy": 12.0,
+        "ejectEffect": "shellEjectSmall",
+        "shootSound": "shoot",
+        "bullet": {
+			"speed": 16,
+			"damage": 600,
+			"bulletWidth": 18,
+			"bulletHeight": 42,
+			"frontColor": "4acf4d",
+			"backColor": "8cff8f",
+		}
+    }
+}

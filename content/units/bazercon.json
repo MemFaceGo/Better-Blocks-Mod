@@ -3,9 +3,10 @@
     "name": "Bazercon",
     "health": 1500,
     "mass": 6.0,
-    "speed": 0.1,
+    "speed": 0.2,
     "maxVelocity": 1.0,
     "drag": 0.01,
+	"attackLength": 90.0,
     "shootCone": 40.0,
     "flying": true,
     "engineOffset": 1,
@@ -19,6 +20,13 @@
         "alternate": true,
         "ejectEffect": "shellEjectSmall",
         "shootSound": "shoot",
-        "bullet": "standardThorium"
+        "bullet": {
+			"speed": 12,
+			"damage": 30
+			"bulletWidth": 12,
+			"bulletHeight": 28,
+			"frontColor": "4acf4d",
+			"backColor": "8cff8f",
+		}
     }
 }

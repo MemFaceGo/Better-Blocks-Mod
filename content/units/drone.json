@@ -6,7 +6,7 @@
     "speed": 0.4,
     "maxVelocity": 2.0,
     "drag": 0.01,
-    "range": 100.0,
+    "attackLength": 100.0,
     "shootCone": 40.0,
     "flying": true,
     "engineOffset": 0.5,
@@ -21,6 +21,13 @@
         "alternate": true,
         "ejectEffect": "shellEjectSmall",
         "shootSound": "shoot",
-        "bullet": "standardCopper"
+        "bullet": {
+			"speed": 12,
+			"damage": 10
+			"bulletWidth": 6,
+			"bulletHeight": 16,
+			"frontColor": "4acf4d",
+			"backColor": "8cff8f",
+		}
     }
 }

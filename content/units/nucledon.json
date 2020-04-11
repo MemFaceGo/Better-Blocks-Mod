@@ -6,9 +6,10 @@
     "speed": 0.2,
     "maxVelocity": 1.0,
     "drag": 0.01,
+	"attackLength": 120.0,
     "shootCone": 40.0,
     "flying": true,
-    "engineOffset": 1,
+    "engineOffset": 2,
     "engineSize": 2,
     "weapon": {
         "length": 10.0,
