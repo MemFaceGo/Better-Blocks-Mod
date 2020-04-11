@@ -1,0 +1,26 @@
+{
+    "type": "wraith",
+    "name": "Nucship",
+    "health": 350,
+    "mass": 4.0,
+    "speed": 0.3,
+    "maxVelocity": 2.0,
+    "drag": 0.01,
+    "range": 150.0,
+    "shootCone": 40.0,
+    "flying": true,
+    "engineOffset": 1,
+    "engineSize": 1,
+    "baseRotateSpeed": 0.1,
+    "weapon": {
+        "length": 3.0,
+        "reload": 40.0,
+        "width": 10.0,
+        "shots": 2,
+        "inaccuracy": 6.0,
+        "alternate": true,
+        "ejectEffect": "shellEjectSmall",
+        "shootSound": "shoot",
+        "bullet": "standardCopper"
+    }
+}

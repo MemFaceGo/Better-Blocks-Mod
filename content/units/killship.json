@@ -1,0 +1,33 @@
+{
+    "type": "wraith",
+    "name": "Killship",
+    "health": 800,
+    "mass": 2.0,
+    "speed": 0.1,
+    "maxVelocity": 2.0,
+    "drag": 0.01,
+    "range": 120.0,
+    "shootCone": 10.0,
+    "flying": true,
+    "engineOffset": 0.5,
+    "engineSize": 0.5,
+    "baseRotateSpeed": 0.1,
+    "weapon": {
+        "length": 3.0,
+        "reload": 120.0,
+        "width": 2.0,
+        "shots": 1,
+        "inaccuracy": 3.0,
+        "alternate": true,
+        "ejectEffect": "shellEjectSmall",
+        "shootSound": "shoot",
+        "bullet": {
+			"speed": 29,
+			"damage": 100
+			"bulletWidth": 8,
+			"bulletHeight": 23,
+			"frontColor": "4acf4d",
+			"backColor": "8cff8f",
+		}
+    }
+}
