@@ -3,7 +3,7 @@
 	"name": "Plasma Turret",
 	"description": "This turret uses not many energy ,but has alot of damage",
 	"health": 1500,
-	"size": 4,
+	"size": 5,
 	"reload": 40,
 	"range": 160,
 	"chargeTime": 30,

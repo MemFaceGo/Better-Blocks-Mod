@@ -5,7 +5,7 @@
 	"targetAir": true,
 	"targetGround": true,
 	"health": 3000,
-	"size": 4,
+	"size": 5,
 	"reload": 10,
 	"shootCone": 20,
 	"shootType": "meltdownLaser"
