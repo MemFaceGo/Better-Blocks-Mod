@@ -1,0 +1,35 @@
+{
+    "type": "wraith",
+    "name": "Apocalypse",
+    "health": 45000,
+    "mass": 100.0,
+    "speed": 0.15,
+	"hitsize": 50,
+	"hitsizeTile": 35,
+    "maxVelocity": 0.8,
+	"rotatespeed": 0.05,
+	"attackLength": 200.0,
+    "drag": 0.01,
+    "shootCone": 2.0,
+    "flying": true,
+    "engineOffset": 5,
+    "engineSize": 5,
+	"baseRotateSpeed": 0.05,
+    "weapon": {
+        "length": 20.0,
+        "reload": 40.0,
+        "width": 20.0,
+        "shots": 3,
+        "inaccuracy": 4.0,
+        "ejectEffect": "shellEjectSmall",
+        "shootSound": "shoot",
+        "bullet": {
+			"speed": 12,
+			"damage": 200
+			"bulletWidth": 12,
+			"bulletHeight": 30,
+			"frontColor": "4acf4d",
+			"backColor": "8cff8f",
+		}
+    }
+}

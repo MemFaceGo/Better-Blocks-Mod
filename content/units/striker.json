@@ -4,6 +4,8 @@
     "health": 10000,
     "mass": 20.0,
     "speed": 0.6,
+	"hitsize": 24,
+	"hitsizeTile": 18,
     "maxVelocity": 3.0,
 	"rotatespeed": 0.05,
 	"attackLength": 150.0,

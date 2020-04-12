@@ -4,6 +4,8 @@
     "health": 350,
     "mass": 4.0,
     "speed": 0.3,
+	"hitsize": 15,
+	"hitsizeTile": 10,
     "maxVelocity": 1.5,
     "drag": 0.01,
     "attackLength": 150.0,

@@ -3,6 +3,7 @@
 	"description": "Empowered Striker unit that can be controlled",
 	"speed": 3.0,
 	"buildPower": 200.0,
+	"hitsize": 24,
 	"engineColor": "666495",
 	"flying": true,
 	"health": 30000,
