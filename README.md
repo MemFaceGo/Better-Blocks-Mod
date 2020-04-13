@@ -8,3 +8,4 @@ This mod adds more blocks , materials and enemies (I'll add enemies soon) (OH NO
 - [LonelyYmomfe](https://github.com/ymomfe) (Ukrainian)
 - Makc - Carbon (Ukrainian)
 - NoName (Korean)
+- King-BR (Portuguese Brazil)
