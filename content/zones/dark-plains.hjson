@@ -9,6 +9,7 @@ startingItems: [
   uran/200
 ]
 launchPeriod: 5
+conditionWave: 5
 requirements: [
   {
     type: ZoneWave

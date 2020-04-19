@@ -8,6 +8,7 @@ startingItems: [
   thorium/200
 ]
 launchPeriod: 10
+conditionWave: 10
 requirements: [
   {
     type: ZoneWave
