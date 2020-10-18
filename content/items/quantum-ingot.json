@@ -1,9 +1,0 @@
-{
-	"type": "material",
-	"name": "[purple]Quantum Ingot",
-	"description": "Ye... This is the best material in the world",
-	"hardness": 8,
-	"cost": 20.0,
-	"color": "#800080",
-	"radioactivity": 0.2
-}

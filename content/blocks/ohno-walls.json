@@ -1,9 +1,0 @@
-{
-	"name": "OH NO",
-	"description": "OH NO",
-	"type": "Wall",
-	"health": 200000
-	"size": 1,
-	"buildVisibility": "sandboxOnly",
-	"category": "defense"
-}
